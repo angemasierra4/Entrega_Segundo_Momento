@@ -1,0 +1,328 @@
+body {
+    background-color: rgb(239, 243, 193);
+    font-family: Arial;
+    color: rgb(53, 66, 34);
+}
+
+.menu {
+    background-color: rgb(239, 243, 193);
+    padding: 10px;
+    width: 100%;
+}
+
+.menu ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.display-inline {
+    background-color: rgba(96, 123, 55, 0.588);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 14px;
+    font-size: 14px;
+}
+
+.menu-option {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.h1-1 {
+    text-align: center;
+    font-size: 28px;
+    color: rgb(53, 66, 34);
+    margin-top: 25px;
+}
+
+.h2-1 {
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(53, 66, 34);
+    margin-top: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+    color: rgba(53, 66, 34, 0.588);
+    margin-top: 30px;
+}
+
+.descripcion-servicios {
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(53, 66, 34, 0.588);
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 25px;
+}
+
+.img-relax {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.masaje-flujo {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    color: rgba(53, 66, 34, 0.588);
+    margin-bottom: 12px;
+}
+
+.masaje-piedras {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    color: rgba(53, 66, 34, 0.588);
+    margin-bottom: 12px;
+}
+
+.masaje-mama {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    color: rgba(53, 66, 34, 0.588);
+    margin-bottom: 12px;
+}
+
+.masaje-profundo {
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(53, 66, 34, 0.588);
+    margin-bottom: 14px;
+}
+
+section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+
+.img-profundo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+
+.img-piedras {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+
+.Mama_Fuerte {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+
+section p {
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(53, 66, 34, 0.588);
+    margin-botom: 14px;
+}
+
+.select-time-flujo60mn {
+    background-color: rgba(53, 66, 34, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.select-time-flujo90mn {
+    background-color: rgba(53, 66, 34, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.select-time-fuerte60mn {
+    background-color: rgba(53, 66, 34, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.select-time-fuerte90mn {
+    background-color: rgba(53, 66, 34, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.select-time-piedras60mn {
+    background-color: rgba(53, 66, 34, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.select-time-piedras90mn {
+    background-color: rgba(53, 66, 34, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.select-time-mama60mn {
+    background-color: rgba(53, 66, 34, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.nombre-completo {
+    text-align: center;
+    font-size: 15px;
+    color: rgba(53, 66, 34, 0.588);
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.input-nombre {
+    background-color: rgba(96, 123, 55, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+.servicios {
+    text-align: center;
+    font-size: 15px;
+    color: rgba(53, 66, 34, 0.588);
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.select-service {
+    background-color: rgba(96, 123, 55, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+
+.fecha-hora {
+    text-align: center;
+    font-size: 15px;
+    color: rgba(53, 66, 34, 0.588);
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.select-time {
+    background-color: rgba(96, 123, 55, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+
+.personal-data {
+    text-align: center;
+    font-size: 15px;
+    color: rgba(53, 66, 34, 0.588);
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.personal-data-check {
+    width: 18px;
+    height: 18px;
+    margin-bottom: 15px;
+}
+
+.confirm-booking {
+    background-color: rgba(96, 123, 55, 0.588);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.confirm-booking:hover {
+    background-color: rgba(53, 66, 34, 0.588);
+} 
+.position-logo-fixed {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(239, 243, 193);
+    border-radius: 15px;
+
+
+.logo-whatsapp {
+    width: 80px;
+    height: 80px;
