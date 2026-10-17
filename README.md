@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="es">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
     <title>Nathiva Spa</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="styleesheetproyintegrador.css">
 </head>
+<body>
 
 <body class="body">
   
@@ -55,3 +56,29 @@
     </button>
 </section>
 </br>
+
+
+<h2 class="h2-2">¡Reserva tu Cita Aquí!</h2>
+    <p class="nombre-completo">Nombre Completo</p>
+    <input class="input-nombre" type="text">
+    <p class="celular">Número Celular</p>
+    <input class="input-celular" type="tel">
+    <p class="servicios">Servicio</p>
+    <select class="select-service">
+        <option></option>
+        <option>Masaje Flujo Glaciar 60mn</option>
+        <option>Masaje Flujo Glaciar 90mn</option>
+        <option>Masaje Profundo de Forge 60mn</option>
+        <option>Masaje Profundo de Forge 90mn</option>
+        <option>Masaje con Piedras Calientes 60mn</option>
+        <option>Masaje con Piedras Calientes 90mn</option>
+        <option>Masaje Mamá Fuerte</option>
+    </select>
+    <p class="fecha-hora">Fecha y Hora</p>
+    <input class="select-time" type="datetime-local">
+    <p class="personal-data">Click para aceptar el tratamiento de Datos Personales</p>
+    <input class="personal-data-check" type="checkbox">
+    <button class="confirm-booking" type="summit">Confirmar Reserva</button>
+    <img class="position-logo-fixed logo-whatsapp" src="/img/WhatsApp_logo.png" alt="Logo de WhastApp">
+</body>
+</html>
