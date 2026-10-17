@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Nathiva Spa</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="body">
+  
+    <nav class="menu">
+        <ol>
+            <img class="logro" src="img/logo.png" alt="Logo NathivaSpa">
+            <select class="display-inline">
+                <option class="menu-option" value="opcion1">Menu de Opciones</option>
+                <option class="menu-option" value="opcion2">Masaje Flujo Glaciar</option>
+                <option class="menu-option" value="opcion3">Masaje Profundo</option>
+                <option class="menu-option" value="opcion3">Masaje con Piedras Calientes</option>
+                <option class="menu-option" value="opcion3">Masaje Mamá Fuerte</option>
+                <option class="menu-option" value="opcion1">Pagos en Efectivo</option>
+                <option class="menu-option" value="opcion1">Pagos con Nequi</option>
+                <option class="menu-option" value="opcion1">Pagos con Bancolombia</option>
+                <option class="menu-option" value="opcion1">Contacto por WhastApp</option>
+                <option class="menu-option" value="opcion1">Contact por Llamada</option>
+            </select>
+        </ol>
+    </nav>
+    <br>
+
+
+    <h1 class="h1-1">Tu Bienestar es nuestra Prioridad</h1>
+    <h2 class="h2-1">Disfruta de un espacio de calma y relajación con nuestros tratamientos de Spa</h2>
+    <h3>Servicios</h3>
+    <p class="descripcion-servicios">En Nathiva Spa, te invitamos a desconectarte de la rutina y regalarte un momento de
+        tranquilidad y bienestar. Descubre nuestros tratamientos de masajes, diseñados para relajar tu cuerpo, liberar
+        tensiones y renovar tu energía. Permítete disfrutar de una experiencia de armonía y descanso donde tu bienestar
+        es nuestra prioridad.</p>
+    <img class="img-relax" src="img/mujer_relajada.png" alt="Spa Relajante">    
+
+<div>
+<section>
+    <h2 class="masaje-flujo">MASAJE: Flujo Glaciar</h2>
+
+    <img src="img/Masaje_Flujo.png" alt="Masaje Flujo Glaciar">
+
+      <p>Movimientos largos y fluidos con presión suave calman el sistema
+        nervioso, alivian la tensión y restablecen el equilibrio. Ideal para aliviar el estrés y mejorar la circulación.
+    </p>
+    <button class="select-time-flujo60mn">
+        <scan>60 minutos $ 162</scan>
+        </button>
+    <button class="select-time-flujo90mn">
+        <scan>90 minutos $ 240</scan>
+    </button>
+</section>
+</br>
+
+
+<section>
+    <h2 class="masaje-flujo">MASAJE: Profundo de Forge </h2>
+
+    <img class="img-profundo" src="img/Masaje_Profundo.png" alt="Masaje Profundo">
+
+      <p class="masaje-profundo">Técnicas firmes y específicas que alivian la tensión crónica,
+        la rigidez y la fatiga. Ideal para personas activas que buscan una recuperación más profunda</p>
+    <button class="select-time-fuerte60mn">
+        <scan>60 minutos $ 186</scan>
+    </button>
+    <button class="select-time-fuerte90mn">
+        <scan>90 minutos $ 282</scan>
+    </button>
+</section>
+</br>
+
+
+<section>
+    <h2 class="masaje-piedras">MASAJE: Piedras Volcánicas </h2>
+
+    <img class="img-piedras" src="img/Masaje_Piedras.png" alt="Masaje con Piedras" >
+    <p class="masaje-piedras">Las piedras de basalto calientes alivian la tensión muscular
+        mientras se disfruta de un masaje lleno de relajación</p>
+    <button class="select-time-piedras60mn">
+        <scan>60 minutos $ 198</scan>
+    </button>
+    <button class="select-time-piedras90mn">
+        <scan>90 minutos $ 294</scan>
+    </button>
+</section>
+</br>
+
+<section>
+    <h2 class="masaje-mama">MASAJE: Prenatal </h2>
+
+    <img class="Mama_Fuerte" src="img/Mama_Fuerte.png" alt="Masaje Prenatal" >
+    <p class="masaje-mama"> Masaje suave y reconfortante diseñado para futuras mamás en su segundo o
+        tercer trimestre. Ayuda a reducir la hinchazón, aliviar la tensión y promover la calma</p>
+   <button class="select-time-mama60mn">
+        <scan>60 minutos $ 162</scan>
+    </button>
+</section>
+</br>
+</div>
