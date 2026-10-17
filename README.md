@@ -58,11 +58,7 @@
 </br>
 
 
-```<html>
-<head>
-</head>
-<body>
-    <h2 class="h2-2">¡Reserva tu Cita Aquí!</h2>
+<h2 class="h2-2">¡Reserva tu Cita Aquí!</h2>
     <p class="nombre-completo">Nombre Completo</p>
     <input class="input-nombre" type="text">
     <p class="celular">Número Celular</p>
@@ -85,4 +81,3 @@
     <button class="confirm-booking" type="summit">Confirmar Reserva</button>
     <img class="position-logo-fixed logo-whatsapp" src="/img/WhatsApp_logo.png" alt="Logo de WhastApp">
 </body>
-</html>```
